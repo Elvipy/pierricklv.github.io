@@ -10,26 +10,15 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-fr:
-  languageCode: fr
-  contentDir: content/fr
-  title: Pierrick Le Vourc'h
-  params:
-    description: Description en français
-  menu:
-     main:
-      - name: Accueil et contact
-        url: '#apropos'
-        weight: 10
-      - name: Publications
-        url: 'fr/publications'
-        weight: 20
-      - name: Enseignements
-        url: 'enseignements'
-        weight: 30
-      - name: Exposés
-        url: '#exposes'
-        weight: 40
-      - name: Documents
-        url: 'fr/documents'
-        weight: 50
+#fr:
+#  languageCode: fr
+#  contentDir: content/fr
+#  title: Pierrick Le Vourc'h
+#  params:
+#    description: Description en français
+#  menu:
+#     main:
+#      - name: Accueil et contact
+#        url: '#apropos'
+#        weight: 10
+      
