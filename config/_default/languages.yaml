@@ -5,18 +5,31 @@
 # Default language
 en:
   languageCode: en-us
+  contentDir: content/en
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#fr:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+fr:
+  languageCode: fr
+  contentDir: content/fr
+  title: Pierrick Le Vourc'h
+  params:
+    description: Description en français
+  menu:
+     main:
+      - name: Accueil et contact
+        url: '#apropos'
+        weight: 10
+      - name: Publications
+        url: 'fr/publications'
+        weight: 20
+      - name: Enseignements
+        url: 'enseignements'
+        weight: 30
+      - name: Exposés
+        url: '#exposes'
+        weight: 40
+      - name: Documents
+        url: 'fr/documents'
+        weight: 50
