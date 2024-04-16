@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-Edit bio
+I am a PhD student working on modeling compressible multiphase flows. My work is supervised by Nicolas Seguin (IMAG, Montpellier) and Khaled Saleh (ICJ, Lyon).
 {style="text-align: justify;"}
