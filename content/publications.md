@@ -2,7 +2,7 @@
 # Leave the title empty to use the site title
 title: ''
 date: 2022-10-24
-type: page
+type: landing
 
 # Optional header image (relative to `static/media/` folder).
 banner:
