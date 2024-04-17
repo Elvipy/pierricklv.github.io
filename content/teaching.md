@@ -4,6 +4,11 @@ title: ''
 date: 2022-10-24
 type: landing
 
+# Optional header image (relative to `static/media/` folder).
+banner:
+  caption: 'Publications'
+  image: ''
+
 sections:
   - block: collection
     content:
