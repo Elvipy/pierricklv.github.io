@@ -103,9 +103,9 @@ sections:
     id: talks
     content:
       title: Talks and Presentations
-#      filters:
-#        folders:
-#          - event
+      filters:
+        folders:
+          - talk
     design:
       columns: '2'
       view: compact      
