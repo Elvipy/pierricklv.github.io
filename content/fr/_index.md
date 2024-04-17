@@ -102,7 +102,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks and Presentations
+      title: Exposés
       filters:
         folders:
           - talks
