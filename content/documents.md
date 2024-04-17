@@ -1,7 +1,6 @@
 ---
 # Leave the title empty to use the site title
-title: ''
-subtitle: 'Documents'
+title: 'Documents'
 date: 2022-10-24
 type: landing
 
