@@ -90,7 +90,7 @@ sections:
       title: Publications
       text: |-
         {{% callout note %}}
-        Trouver rapidement les sujets qui vous intéressent en [filtrant les publications](./publication/).
+        Trouvez rapidement les sujets qui vous intéressent en [filtrant les publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
