@@ -17,7 +17,7 @@ en:
   params:
     description: English description
   menu:
-     main:
+    main:
       - name: Home and contact
         url: '#about'
        weight: 10
