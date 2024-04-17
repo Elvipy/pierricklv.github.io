@@ -94,7 +94,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: {{< mailto email="pierrick.le-vourc-h@umontpellier.fr" />}}
+    link: pierrick.le-vourc-h@umontpellier.fr
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.fr/
