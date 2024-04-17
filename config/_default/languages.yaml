@@ -20,7 +20,7 @@ en:
     main:
       - name: Home and contact
         url: '#about'
-       weight: 10
+        weight: 10
       - name: Publications
         url: publications/
         weight: 20
