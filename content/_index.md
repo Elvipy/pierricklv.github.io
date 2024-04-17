@@ -113,30 +113,30 @@ sections:
     id: contact
     content:
       title: Contact
-￼      # Contact (add or remove contact options as necessary)
+        # Contact (add or remove contact options as necessary)
         email: pierrick.le-vourc-h@umontpellier.fr
-￼ #     phone: 888 888 88 88
-￼ #     address:
-￼ #       street: 450 Serra Mall
-￼ #       city: Stanford
-￼ #       region: CA
-￼ #       postcode: '94305'
-￼ #       country: United States
-￼ #       country_code: US
-￼ #     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-￼      # Choose a map provider in `params.yaml` to show a map from these coordinates
-￼ #     coordinates:
-￼ #       latitude: '37.4275'
-￼ #       longitude: '-122.1697'  
-￼      # Automatically link email and phone or display as text?
+  #     phone: 888 888 88 88
+  #     address:
+  #       street: 450 Serra Mall
+  #       city: Stanford
+  #       region: CA
+  #       postcode: '94305'
+  #       country: United States
+  #       country_code: US
+  #     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+       # Choose a map provider in `params.yaml` to show a map from these coordinates
+  #     coordinates:
+  #       latitude: '37.4275'
+  #       longitude: '-122.1697'  
+       # Automatically link email and phone or display as text?
         autolink: true
-￼      # Email form provider
+       # Email form provider
         form:
           provider: netlify
           formspree:
             id:
           netlify:
-￼          # Enable CAPTCHA challenge to reduce spam?
+           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
       design:
       columns: '2'
