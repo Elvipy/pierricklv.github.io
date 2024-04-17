@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctorant
+role: Doctorant en modélisation mathématique pour la mécanique des fluides
 
 # Organizations/Affiliations to show in About widget
 organizations:

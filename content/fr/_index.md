@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Biographie
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   #- block: skills
@@ -90,7 +90,7 @@ sections:
       title: Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Trouver rapidement les sujets qui vous intéressent en [filtrant les publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
