@@ -12,7 +12,7 @@ baseURL: 'https://pierrick-levourch.fr/' # Website URL
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
