@@ -10,7 +10,7 @@ banner:
   image: ''
 
 sections:
-  - block: collection
+  - block: markdown
     content:
       title: 2023-2024
       text: Supervision of mathematics exercice sessions in a Bachelor in Engineering Mechanics at the University of Lyon.
