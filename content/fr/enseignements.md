@@ -16,7 +16,7 @@ sections:
       text: 
         {{% spoiler text="Click to view the spoiler" %}}
         You found me!
-        {{< /spoiler %}}
+        {{% /spoiler %}}
         Enseignement de mathématiques en première année de BUT Génie Mécanique et Productique à l'Université Claude Bernard Lyon 1. 
 
           - Document de révision sur les nombres complexes et les polynômes
