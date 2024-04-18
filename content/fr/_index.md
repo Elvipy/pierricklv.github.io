@@ -105,7 +105,7 @@ sections:
       title: Exposés
       filters:
         folders:
-          - talks
+          - exposes
     design:
       columns: '2'
       view: compact      
