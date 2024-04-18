@@ -15,19 +15,16 @@ sections:
       title: 2023-2024
       text: |-
         {{% spoiler text="Enseignement de mathématiques en première année de BUT Génie Mécanique et Productique à l'Université Claude Bernard Lyon 1." %}}
-        - Document de révision sur les nombres complexes et les polynômes
+        - [Document sur les nombres complexes et les polynômes](./uploads/2223-docrev.pdf)
 
         - [Contrôle n°1 : nombres complexes et les polynômes](./uploads/2223-controle1.pdf)
 
-        - Contrôle SAE : espaces vectoriels (énoncé et correction)
+        - [Contrôle SAE : espaces vectoriels](./uploads/2223-sae.pdf)
 
-        - Contrôle n°2 : espaces vectoriels, applications linéaires, matrices, déterminants et diagonalisation (énoncé et correction)
+        - [Contrôle n°2 : espaces vectoriels, applications linéaires, matrices, déterminants et diagonalisation](./uploads/2223-controle2.pdf)
 
-        - Contrôle n°3 : études de fonctions, fonctions trigonométriques réciproques et développements limités (énoncé et correction)
+        - [Contrôle n°3 : études de fonctions, fonctions trigonométriques réciproques et développements limités](./uploads/2223-controle1.pdf)
         {{% /spoiler %}}
-         
-
-          
     design:
       columns: '2'
 ---
