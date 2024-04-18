@@ -17,7 +17,7 @@ sections:
         {{% spoiler text="Enseignement de mathématiques en première année de BUT Génie Mécanique et Productique à l'Université Claude Bernard Lyon 1." %}}
         - Document de révision sur les nombres complexes et les polynômes
 
-        - Contrôle n°1 : nombres complexes et les polynômes {{% staticref "uploads/2223-controle1.pdf" "newtab" %}}(énoncé et correction){{% /staticref %}}
+        - Contrôle n°1 : nombres complexes et les polynômes [(énoncé et correction)](./uploads/2223-controle1.pdf)
 
         - Contrôle SAE : espaces vectoriels (énoncé et correction)
 
