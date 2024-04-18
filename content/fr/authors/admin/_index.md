@@ -112,5 +112,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Je suis doctorant travaillant sur la modélisation d'écoulements multiphasiques compressibles sous la direction de [Nicolas Seguin](https://seguin.perso.math.cnrs.fr/) (IMAG, Montpellier) et [Khaled Saleh](http://math.univ-lyon1.fr/~saleh/index.html) (ICJ, Lyon)
+Je suis doctorant travaillant sur la modélisation d'écoulements multiphasiques compressibles sous la direction de [Nicolas Seguin](https://seguin.perso.math.cnrs.fr/) (IMAG, Montpellier) et [Khaled Saleh](http://math.univ-lyon1.fr/~saleh/index.html) (ICJ, Lyon).
 {style="text-align: justify;"}
