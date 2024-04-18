@@ -15,7 +15,7 @@ sections:
       title: 2024
       filters:
         folders:
-          - talks/2024
+          - talks
         exclude_featured: true
     design:
       columns: '2'
