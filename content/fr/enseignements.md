@@ -13,7 +13,7 @@ sections:
   - block: markdown
     content:
       title: 2023-2024
-      text: 
+      text: |-
         {{% spoiler text="Click to view the spoiler" %}}
         You found me!
         {{% /spoiler %}}
