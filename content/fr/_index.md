@@ -100,7 +100,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: exposes
     content:
       title: Exposés
       filters:

@@ -6,7 +6,7 @@ type: landing
 
 # Optional header image (relative to `static/media/` folder).
 banner:
-  caption: 'Exposes'
+  caption: 'Exposés'
   image: ''
 
 sections:
@@ -15,7 +15,7 @@ sections:
       title: 2024
       filters:
         folders:
-          - exposes/2024
+          - exposes
         exclude_featured: true
     design:
       columns: '2'
