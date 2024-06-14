@@ -1,5 +1,5 @@
 ---
-title: Dérivation et analyse de modèles d’écoulements diphasiques compressibles
+title: Derivation and analysis of compressible multiphase flow models
 
 event: Integration Days of the Institut Camille Jordan
 
