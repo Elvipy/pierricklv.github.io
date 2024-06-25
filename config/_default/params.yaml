@@ -18,15 +18,15 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Site personnel de Pierrick Le Vourc'h, doctorant en mathématiques'
+    #twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: '<meta name="google-site-verification" content="3uIIA4EWmRKd0qXrgY23xT_EZUxHHj1ZDB-Ue82KA4w" />'
+    google: ''
     baidu: ''
 
 # Site header
@@ -98,7 +98,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: 'openstreetmap'
     api_key: ''
     zoom: 15
 

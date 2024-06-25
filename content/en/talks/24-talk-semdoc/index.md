@@ -8,6 +8,7 @@ location: Institut Camille Jordan
 address:
     street: 21 avenue Claude Bernard
     city: Villeurbanne
+    postcode: '69100'
     country: France
 
 summary: A presentation of my work during the first months of my thesis.
