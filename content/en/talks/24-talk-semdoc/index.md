@@ -5,14 +5,8 @@ event: PhD students' seminar
 event_url: https://indico.math.cnrs.fr/event/11629
 
 location: Institut Camille Jordan
-address:
-    street: 21 avenue Claude Bernard
-    city: Villeurbanne
-    region: Auvergne-Rhône-Alpes
-    postcode: '69100'
-    country: France
 
-#summary: A presentation of my work during the first months of my thesis.
+summary: A presentation of my work during the first months of my thesis.
 abstract: 'Understanding and modelizing compressible multiphase flows have become a major challenge and an important domain of research during the second half of the twentieth century. This kind of flows can occur in several industrial situations, like in circuits of pressurized water reactors of nuclear plants or in combustion chambers of space launchers for instance. In this talk, I will start by justifying the need for averaged models for compressible multiphase flows. Then, I will describe some methods that can be used to derive such models. Finally, I will present the derivation of a height-averaged model for a bifluid stratified flow, which I developed during my master's internship.'
 
 # Talk start and end times.
