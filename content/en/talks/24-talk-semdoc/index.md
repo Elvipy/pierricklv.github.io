@@ -2,7 +2,7 @@
 title: Averaged models for compressible multiphase flows
 
 event: PhD students' seminar
-event_url: https://indico.math.cnrs.fr/event/11629
+#event_url: https://indico.math.cnrs.fr/event/11629
 
 location: Institut Camille Jordan
 
