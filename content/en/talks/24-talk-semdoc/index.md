@@ -8,7 +8,7 @@ location: Institut Camille Jordan, Lyon
 address:
   street: 21 avenue Claude Bernard
   city: Villeurbanne
-#  region: CA
+  region: Auvergne-Rhône-Alpes
   postcode: '69100'
   country: France
 
