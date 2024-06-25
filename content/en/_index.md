@@ -94,7 +94,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: true
     design:
       columns: '2'
@@ -126,8 +126,8 @@ sections:
       directions: Enter building 9 and take the stairs to Office 130 on Floor 1      
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '43.63117878118292'
-        longitude: '3.8663403106686034'  
+        latitude: 43.63117878118292
+        longitude: 3.8663403106686034  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
