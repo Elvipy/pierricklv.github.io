@@ -123,7 +123,8 @@ sections:
         postcode: '34090'
         country: France
       # country_code: US
-      directions: Enter building 9 and take the stairs to Office 130 on Floor 1      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      directions: Enter building 9 and take the stairs to Office 130 on Floor 1      
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '43.63117878118292'
         longitude: '3.8663403106686034'  
