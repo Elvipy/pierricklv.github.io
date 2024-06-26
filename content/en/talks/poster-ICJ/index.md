@@ -6,7 +6,7 @@ event: Integration Days of the Institut Camille Jordan
 location: Institut Camille Jordan, Lyon
 
 authors:
-- Pierrick Le Vourc'h
+    - admin
 date: '2024-01-18'
 date_end: '2024-01-19'
 publication_types:

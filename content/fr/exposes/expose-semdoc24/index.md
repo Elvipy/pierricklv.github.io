@@ -6,7 +6,7 @@ event: Séminaire des doctorants
 location: Institut Camille Jordan, Lyon
 
 authors:
-- Pierrick Le Vourc'h
+    - admin
 date: '2024-02-19'
 date_end: '2024-02-19'
 publication_types:

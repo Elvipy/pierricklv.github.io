@@ -6,7 +6,7 @@ event: 46ème Congrès National d'Analyse Numérique
 location: Le Bois-Plage-en-Ré, Île de Ré
 
 authors:
-- Pierrick Le Vourc'h
+    - admin
 date: '2024-05-27'
 date_end: '2024-05-31'
 publication_types:
