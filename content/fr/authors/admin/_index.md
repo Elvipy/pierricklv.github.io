@@ -16,6 +16,9 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Role/position/tagline
 role: Doctorant en modélisation mathématique pour la mécanique des fluides
 
@@ -108,9 +111,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://pierrick-levourch.fr/uploads/cv_fr.pdf
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
 ---
 Je suis doctorant travaillant sur la modélisation d'écoulements multiphasiques compressibles sous la direction de [Nicolas Seguin](https://seguin.perso.math.cnrs.fr/) (IMAG, Montpellier) et [Khaled Saleh](http://math.univ-lyon1.fr/~saleh/index.html) (ICJ, Lyon).
 {style="text-align: justify;"}
