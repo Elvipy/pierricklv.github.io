@@ -116,7 +116,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: pierrick.le-vourc-h@umontpellier.fr
       #phone: 888 888 88 88
-       address:
+      address:
         street: Place Eugène Bataillon
         city: Montpellier
         # region: CA
