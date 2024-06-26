@@ -47,12 +47,12 @@ header:
 
 footer:
   copyright:
-    notice: '© Pierrick Le Vourc'h · {year}'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: © Pierrick Le Vourc'h · {year}
+    #license:
+    #  enable: false
+    #  allow_derivatives: false
+    #  share_alike: true
+    #  allow_commercial: false
 
 # Localization
 
