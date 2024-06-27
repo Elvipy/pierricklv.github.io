@@ -6,12 +6,10 @@
 # Appearance
 
 appearance:
-  theme_default: system
-  color: purple
-  # theme_day: minimal
-  # theme_night: minimal
-  # font: minimal
-  # font_size: L
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 
