@@ -7,7 +7,7 @@
 
 appearance:
   mode: system
-  color: cyan
+  color: purple
   # theme_day: minimal
   # theme_night: minimal
   # font: minimal
@@ -39,10 +39,10 @@ header:
     align: l
     show_logo: true
     show_language: true
-    show_day_night: true
+    show_theme_chooser: true
     show_search: true
     show_translations: true
-    hide_language_name: true
+    hide_language_name: false
     highlight_active_link: true
 
 # Site footer
