@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  mode: system
+  theme_default: system
   color: purple
   # theme_day: minimal
   # theme_night: minimal
