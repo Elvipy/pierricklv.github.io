@@ -110,7 +110,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: 'uploads/cv_fr.pdf'
+    link: https://pierrick-levourch.fr/uploads/cv_fr.pdf
 ---
 Je suis doctorant travaillant sur la modélisation d'écoulements multiphasiques compressibles sous la direction de [Nicolas Seguin](https://seguin.perso.math.cnrs.fr/) (IMAG, Montpellier) et [Khaled Saleh](http://math.univ-lyon1.fr/~saleh/index.html) (ICJ, Lyon).
 {style="text-align: justify;"}
