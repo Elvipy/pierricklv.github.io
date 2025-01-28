@@ -29,4 +29,12 @@ sections:
         {{% /spoiler %}}
     design:
       columns: '2'
+  - block: markdown
+    content:
+      title: 2024-2025
+      text: |-
+        {{% spoiler text="Supervision of mathematics exercice sessions in mathematics and biology bachelors at Montpellier University." %}}
+        - For more details and resources, go to the Moodle.
+    design:
+      columns: '2'
 ---

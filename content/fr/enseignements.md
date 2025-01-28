@@ -29,4 +29,12 @@ sections:
         {{% /spoiler %}}
     design:
       columns: '2'
+  - block: markdown
+    content:
+      title: 2024-2025
+      text: |-
+        {{% spoiler text="Enseignement de mathématiques (L1, L2 de mathématiques et L1 de sciences de la vie) à l'Université de Montpellier." %}}
+        - Pour plus de détails et éventuellement des corrections d'exercices, rendez-vous sur le Moodle. 
+    design:
+      columns: '2'
 ---
