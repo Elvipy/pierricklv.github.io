@@ -35,6 +35,7 @@ sections:
       text: |-
         {{% spoiler text="Supervision of mathematics exercice sessions in mathematics and biology bachelors at Montpellier University." %}}
         - For more details and resources, go to the Moodle.
+        {{% /spoiler %}}
     design:
       columns: '2'
 ---
